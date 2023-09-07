@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "2. DOM"
 
-**CI** [![Build status](https://ci.appveyor.com/api/projects/status/xkidh2i33sqcurdk?svg=true)](https://ci.appveyor.com/project/kievsan/ahj-dom-game)    [GitHub Pages](https://kievsan.github.io/ahj-dom-game/)
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/xkidh2i33sqcurdk?svg=true)](https://ci.appveyor.com/project/Artyouhan/dom2#L16)    [GitHub Pages](https://github.com/Artyouhan/Dom2)
 
 
 Правила сдачи задания:
